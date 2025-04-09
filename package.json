@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node index.js"
+}
 {
   "name": "nodejs",
   "version": "1.0.0",
@@ -13,7 +16,3 @@
     "@types/node": "^22.13.11",
     "discord.js": "^14.11.0"
   }
-}
-"scripts": {
-  "start": "node index.js"
-}
